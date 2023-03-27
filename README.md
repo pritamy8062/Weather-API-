@@ -1,4 +1,4 @@
-# Weather-API-
+# Forecast Fuse-
 
 Forecast Fuse Web App Link : https://forecastfuse.netlify.app/
 
